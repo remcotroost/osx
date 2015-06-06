@@ -194,7 +194,7 @@ export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
 
 export ICONJAR_APP_NAME=IconJar.app
-export ICONJAR_APP_URL="https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/004/513/556/original/af0d3fb01dedfcd18215d3413e658d56/IconJar.app.zip"
+export ICONJAR_APP_URL="https://rink.hockeyapp.net/api/2/apps/b91fcb22f1ac5013dad6ffde2dca7c79/app_versions/15?format=zip&avtoken=83795ce631a650e634c6be9940e4851983f21dce"
 
 export VLC_APP_NAME=VLC.app
 export VLC_APP_URL="http://get.videolan.org/vlc/2.2.1/macosx/vlc-2.2.1.dmg"
