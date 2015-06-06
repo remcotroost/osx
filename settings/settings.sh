@@ -197,7 +197,7 @@ export ICONJAR_APP_NAME=IconJar.app
 export ICONJAR_APP_URL="https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/004/513/556/original/af0d3fb01dedfcd18215d3413e658d56/IconJar.app.zip"
 
 export VLC_APP_NAME=VLC.app
-export VLC_APP_URL="http://get.videolan.org/vlc/2.2.0/macosx/vlc-2.2.0.dmg"
+export VLC_APP_URL="http://get.videolan.org/vlc/2.2.1/macosx/vlc-2.2.1.dmg"
 
 export PG_ADMIN_APP_NAME=pgAdmin3.app
 export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/release/v1.20.0/osx/pgadmin3-1.20.0.dmg"
