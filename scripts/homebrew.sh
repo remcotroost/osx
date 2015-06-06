@@ -121,6 +121,9 @@ brew install rbenv-ctags
 # Go
 brew install go
 
+# FZF
+brew install fzf
+
 # Peco
 brew install peco
 
