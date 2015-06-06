@@ -122,7 +122,6 @@ brew install rbenv-ctags
 brew install go
 
 # Peco
-brew tap peco/peco
 brew install peco
 
 # Nginx
