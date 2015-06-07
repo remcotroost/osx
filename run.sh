@@ -22,7 +22,7 @@ while true; do
   if [[ $# == 0 ]]; then
     printf "\nUsage: run OPTION\n"
     printf "\nOSX Options:\n"
-    printf "  Install:\n"
+    printf "  Setup:\n"
     printf "    b:  Apply basic system settings.\n"
     printf "    h:  Install Homebrew software.\n"
     printf "    a:  Install application software.\n"
