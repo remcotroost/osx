@@ -325,7 +325,7 @@ I also recommend installing the following software found via the
 - [MoneyWell](http://nothirst.com/moneywell)
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html)
 - [Slack](https://slack.com)
-- [Twitter](https://itunes.apple.com/us/app/twitter/id409789998?mt=12)
+- [Tweetbot](http://tapbots.com/tweetbot/mac)
 
 # Miscellaneous Software
 
