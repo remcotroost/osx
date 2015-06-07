@@ -1,3 +1,72 @@
+# v10.0.0 (2015-06-07)
+
+- Removed Atom (editor) support.
+- Removed CoBook from App Store software list.
+- Removed LittleSnapper from the App Store list.
+- Removed Mackup Homebrew install.
+- Removed SYSTEM_DOMAIN global variable.
+- Removed Twitter from README App Store list (replaced by Tweetbot).
+- Removed Witch from the README App Store list.
+- Removed rbenv variable settings from setup script.
+- Removed the Git Sublime Text extension.
+- Removed the Homebrew peco tap.
+- Removed the Rubinius install and related setup.
+- Removed the Sublime Xiki extension.
+- Fixed .gemrc setup.
+- Fixed hanging script with invalid option.
+- Fixed improper use of global repository variables in setup script.
+- Updated EasyMotion extension for Sublime Text 3.
+- Updated Sublime Linter extension for Sublime Text 3.
+- Updated Sublime Color Highligher extension for Sublime Text 3.
+- Updated `run.sh` options so 'w' option is part of manage section.
+- Updated `run.sh` options to use "Setup" instead of "Install".
+- Updated `run.sh` work directory option description.
+- Updated default desktop image.
+- Updated installing/installed application/extension messages.
+- Updated to Alfred 2.6.374.
+- Updated to AppCleaner 2.3.
+- Updated to Carbon Copy Cloner 4.1.3.4135.
+- Updated to Cloak 2.0.11.
+- Updated to Dotfiles 16.0.0.
+- Updated to Firefox 38.0.5.
+- Updated to Go Setup 0.1.2.
+- Updated to JRuby 9.0.0.0.pre2.
+- Updated to Knox 2.3.1.
+- Updated to NPM Setup 0.6.0.
+- Updated to Opera 29.0.1795.60.
+- Updated to Rubinius 2.5.2.
+- Updated to Ruby 2.2.2.
+- Updated to Ruby Setup 2.0.0.
+- Updated to Sublime Text 3.
+- Updated to Sublime Text Setup 3.0.0.
+- Updated to Trailer 1.3.4.
+- Updated to VLC 2.2.1.
+- Updated to VirtualBox 4.3.28-100309.
+- Updated to iTerm 2.1.1.
+- Added Find My Mac to post install checklist.
+- Added MoneyWell to the App Store list.
+- Added [CloudApp](http://www.getcloudapp.com) install.
+- Added [Colorized Cat](https://github.com/jingweno/ccat) Homebrew install.
+- Added [Ember](http://realmacsoftware.com/ember) to the README App Store list.
+- Added [FZF](https://github.com/junegunn/fzf) Homebrew install.
+- Added [Iconjar](http://geticonjar.com) app install.
+- Added [Sketch](http://bohemiancoding.com/sketch) to the README App Store list.
+- Added [Sublime Text - AutoFileName](https://github.com/BoundInCode/AutoFileName) extension.
+- Added [Sublime Text - JSCS Formatter](https://github.com/TheSavior/SublimeJSCSFormatter) extension.
+- Added [Sublime Text - JSCS Linter](https://github.com/SublimeLinter/SublimeLinter-jscs) extension.
+- Added [Sublime Text - Rubocop](https://github.com/pderichs/sublime_rubocop) extension.
+- Added [asciinema](https://asciinema.org) Homebrew install.
+- Added [pgcli](http://pgcli.com) Homebrew install.
+- Added basic .gemrc config for Ruby setup.
+- Added code of conduct documentation.
+- Added application reinstall support.
+- Added extension reinstall support.
+- Added repository settings support.
+- Added the [Gifsicle](http://www.lcdf.org/gifsicle) Homebrew install.
+- Added the [GitUp](http://gitup.co) application install.
+- Added the [Speak](http://speak.io) app install.
+- Added the [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2) app install.
+
 # v9.2.0 (2015-01-04)
 
 - Fixed VLC install.

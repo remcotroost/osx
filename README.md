@@ -12,7 +12,9 @@ Shell scripts for automated OSX machine setup.
     - [OpenSSL](https://openssl.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
+    - [asciinema](https://asciinema.org)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
+    - [Colorized Cat](https://github.com/jingweno/ccat)
     - [tmux](http://tmux.sourceforge.net)
     - [Mosh](http://mosh.mit.edu)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
@@ -37,6 +39,7 @@ Shell scripts for automated OSX machine setup.
     - [Graphviz](http://www.graphviz.org)
     - [FLAC](https://www.xiph.org/flac)
     - [FFmpeg](http://ffmpeg.org)
+    - [Gifsicle](http://www.lcdf.org/gifsicle)
     - [Node.js](http://nodejs.org)
     - [Phantom.js](http://phantomjs.org)
     - [rbenv](https://github.com/sstephenson/rbenv)
@@ -44,27 +47,29 @@ Shell scripts for automated OSX machine setup.
     - [rbenv-vars](https://github.com/sstephenson/rbenv-vars)
     - [rbenv-ctags](https://github.com/tpope/rbenv-ctags)
     - [Ruby](http://www.ruby-lang.org)
-    - [Rubinius](http://rubini.us)
     - [JRuby](http://jruby.org)
     - [Go](http://golang.org)
+    - [FZF](https://github.com/junegunn/fzf)
     - [Peco](https://github.com/peco/peco)
     - [Nginx](http://wiki.nginx.org)
     - [Pow](http://pow.cx)
     - [Memcached](http://memcached.org)
     - [Redis](http://redis.io)
     - [PostgreSQL](http://www.postgresql.org)
+    - [pgcli](http://pgcli.com)
     - [Wry](https://github.com/hoop33/wry)
     - [lnav](http://braumeister.org/formula/lnav)
     - [cloc](http://cloc.sourceforge.net)
-    - [Mackup](https://github.com/lra/mackup)
     - [Terminal Notifier](https://github.com/alloy/terminal-notifier)
+
 - Downloads, installs, and configures software applications generally not in the [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
     - [Dropbox](https://www.dropbox.com)
+    - [CloudApp](http://www.getcloudapp.com)
     - [Knox](https://agilebits.com/knox)
     - [iTerm2](http://www.iterm2.com)
-    - [Atom](https://atom.io)
-    - [Sublime Text 2](http://www.sublimetext.com/2)
-    - [Sublime Text 2 URL Handler](https://github.com/asuth/subl-handler)
+    - [GitUp](http://gitup.co)
+    - [Sublime Text 3](http://www.sublimetext.com)
+    - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
     - [Alfred](http://www.alfredapp.com)
     - [TextExpander](http://www.smilesoftware.com/TextExpander)
     - [Path Finder](http://cocoatech.com)
@@ -79,6 +84,7 @@ Shell scripts for automated OSX machine setup.
     - [Acorn](http://flyingmeat.com/acorn)
     - [DoubleTake](http://echoone.com/doubletake)
     - [ImageOptim](http://imageoptim.pornel.net)
+    - [Iconjar](http://geticonjar.com)
     - [VLC](http://www.videolan.org/vlc)
     - [pgAdmin](http://www.pgadmin.org/index.php)
     - [PSequel](http://www.psequel.com)
@@ -87,6 +93,7 @@ Shell scripts for automated OSX machine setup.
     - [OpenOffice](http://www.openoffice.org)
     - [Cloak](https://www.getcloak.com)
     - [Screenhero](http://screenhero.com)
+    - [Speak](http://speak.io)
     - [VirtualBox](https://www.virtualbox.org)
     - [Doxie](http://www.getdoxie.com)
     - [Sonos](http://www.sonos.com)
@@ -95,6 +102,7 @@ Shell scripts for automated OSX machine setup.
     - [Trailer](http://ptsochantaris.github.io/trailer)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
+    - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
 - Downloads, installs, and configures software extensions:
     - [Vim Pathogen](https://github.com/tpope/vim-pathogen)
     - [Vim Fugitive](https://github.com/tpope/vim-fugitive)
@@ -106,76 +114,41 @@ Shell scripts for automated OSX machine setup.
     - [Vim Text Object User](https://github.com/kana/vim-textobj-user)
     - [Vim Text Object Ruby Block](https://github.com/nelstrom/vim-textobj-rubyblock)
     - [Vim Rails](https://github.com/tpope/vim-rails)
-    - [Sublime Text 2 Git](https://github.com/kemayo/sublime-text-2-git)
-    - [Sublime Text 2 Git Gutter](https://github.com/jisaacks/GitGutter)
-    - [Sublime Text 2 Gist](https://github.com/condemil/Gist)
-    - [Sublime Text 2 Keymaps](https://github.com/MiroHibler/sublime-keymaps)
-    - [Sublime Text 2 Local History](https://github.com/vishr/local-history)
-    - [Sublime Text 2 CTags](https://github.com/SublimeText/CTags)
-    - [Sublime Text 2 Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
-    - [Sublime Text 2 Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
-    - [Sublime Text 2 Move Tab](https://github.com/SublimeText/MoveTab)
-    - [Sublime Text 2 Apply Syntax](https://github.com/facelessuser/ApplySyntax)
-    - [Sublime Text 2 Change Quotes](https://github.com/colinta/SublimeChangeQuotes)
-    - [Sublime Text 2 Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter)
-    - [Sublime Text 2 Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)
-    - [Sublime Text 2 Gutter Color](https://github.com/ggordan/GutterColor)
-    - [Sublime Text 2 Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
-    - [Sublime Text 2 Alignment](https://github.com/wbond/sublime_alignment)
-    - [Sublime Text 2 Wrap+](https://github.com/ehuss/Sublime-Wrap-Plus)
-    - [Sublime Text 2 Autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer)
-    - [Sublime Text 2 Xiki](https://github.com/lunixbochs/SublimeXiki)
-    - [Sublime Text 2 Easy Motion](https://github.com/tednaleid/sublime-EasyMotion)
-    - [Sublime Text 2 Emmet](http://emmet.io)
-    - [Sublime Text 2 Emmet LiveStyle](http://livestyle.emmet.io)
-    - [Sublime Text 2 Web Inspector](http://sokolovstas.github.com/SublimeWebInspector)
-    - [Sublime Text 2 Sublime Linter](https://github.com/SublimeLinter/SublimeLinter)
-    - [Sublime Text 2 Ruby Extract Method](https://github.com/pashamur/ruby-extract-method)
-    - [Sublime Text 2 Ruby Slim](https://github.com/slim-template/ruby-slim.tmbundle)
-    - [Sublime Text 2 Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
-    - [Sublime Text 2 SCSS](https://github.com/MarioRicalde/SCSS.tmbundle/tree/SublimeText2)
-    - [Sublime Text 2 CSScomb](https://github.com/csscomb/csscomb-for-sublime)
-    - [Sublime Text 2 Coffee Script](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
-    - [Sublime Text 2 HTML Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
-    - [Sublime Text 2 DashDoc](https://github.com/farcaller/DashDoc)
-    - [Sublime Text 2 Table Editor](https://github.com/vkocubinsky/SublimeTableEditor)
-    - [Atom Project Manager](https://atom.io/packages/project-manager)
-    - [Atom Git+](https://atom.io/packages/git-plus)
-    - [Atom Vim Mode](https://atom.io/packages/vim-mode)
-    - [Atom Ruby Test](https://atom.io/packages/ruby-test)
-    - [Atom CTags](https://atom.io/packages/atom-ctags)
-    - [Atom Autocomplete Paths](https://atom.io/packages/autocomplete-paths)
-    - [Atom Autocomplete Plus](https://atom.io/packages/autocomplete-plus)
-    - [Atom Color Picker](https://atom.io/packages/color-picker)
-    - [Atom Dash](https://atom.io/packages/dash)
-    - [Atom Easy Motion](https://atom.io/packages/easy-motion)
-    - [Atom Emmet](https://atom.io/packages/emmet)
-    - [Atom IPlastic Syntax](https://atom.io/packages/iplastic-syntax)
-    - [Atom Linter](https://atom.io/packages/linter)
-    - [Atom Linter (CSS)](https://atom.io/packages/linter-csslint)
-    - [Atom Linter (JSHint)](https://atom.io/packages/linter-jshint)
-    - [Atom Linter (Rubocop)](https://atom.io/packages/linter-rubocop)
-    - [Atom Linter (Ruby)](https://atom.io/packages/linter-ruby)
-    - [Atom Linter (SCSS)](https://atom.io/packages/linter-scss-lint).
-    - [Atom Linter(ShellCheck)](https://atom.io/packages/linter-shellcheck)
-    - [Atom Local HIstory](https://atom.io/packages/local-history)
-    - [Atom Rails RSpec](https://atom.io/packages/rails-rspec)
-    - [Atom Reveal Active File Context](https://atom.io/packages/reveal-active-file-context)
-    - [Atom Ruby Slim](https://atom.io/packages/ruby-slim)
-    - [Atom Tab Move Key](https://atom.io/packages/tab-move-key)
-    - [Atom Toggle Quotes](https://atom.io/packages/toggle-quotes)
-    - [Atom Trailing Spaces](https://atom.io/packages/trailing-spaces)
-    - [Atom Wrap Lines](https://atom.io/packages/wrap-lines)
-    - [Atom Yosemite Unity UI](https://atom.io/packages/yosemite-unity-ui)
-    - [Atom Open Last Project](https://atom.io/packages/open-last-project)
-    - [Atom TODO Show](https://atom.io/packages/todo-show)
-    - [Atom Pain Split](https://atom.io/packages/pain-split)
-    - [Atom Inline Autocomplete](https://atom.io/packages/inline-autocomplete)
-    - [Atom File Icons](https://atom.io/packages/file-icons)
-    - [Atom Git Tab Status](https://atom.io/packages/git-tab-status)
-    - [Atom Git History](https://atom.io/packages/git-history)
-    - [Atom Key Peek](https://atom.io/packages/key-peek)
-    - [Atom Live Archive](https://atom.io/packages/live-archive)
+    - [Sublime Text 3 Git Gutter](https://github.com/jisaacks/GitGutter)
+    - [Sublime Text 3 Gist](https://github.com/condemil/Gist)
+    - [Sublime Text 3 Keymaps](https://github.com/MiroHibler/sublime-keymaps)
+    - [Sublime Text 3 Local History](https://github.com/vishr/local-history)
+    - [Sublime Text 3 CTags](https://github.com/SublimeText/CTags)
+    - [Sublime Text 3 Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
+    - [Sublime Text 3 Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
+    - [Sublime Text 3 Move Tab](https://github.com/SublimeText/MoveTab)
+    - [Sublime Text 3 Apply Syntax](https://github.com/facelessuser/ApplySyntax)
+    - [Sublime Text 3 Change Quotes](https://github.com/colinta/SublimeChangeQuotes)
+    - [Sublime Text 3 Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter)
+    - [Sublime Text 3 Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)
+    - [Sublime Text 3 Gutter Color](https://github.com/ggordan/GutterColor)
+    - [Sublime Text 3 Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
+    - [Sublime Text 3 Alignment](https://github.com/wbond/sublime_alignment)
+    - [Sublime Text 3 Wrap+](https://github.com/ehuss/Sublime-Wrap-Plus)
+    - [Sublime Text 3 AutoFileName](https://github.com/BoundInCode/AutoFileName)
+    - [Sublime Text 3 Autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer)
+    - [Sublime Text 3 Easy Motion](https://github.com/tednaleid/sublime-EasyMotion)
+    - [Sublime Text 3 Emmet](http://emmet.io)
+    - [Sublime Text 3 Emmet LiveStyle](http://livestyle.emmet.io)
+    - [Sublime Text 3 Web Inspector](http://sokolovstas.github.com/SublimeWebInspector)
+    - [Sublime Text 3 Sublime Linter](https://github.com/SublimeLinter/SublimeLinter)
+    - [Sublime Text 3 JSCS Linter](https://github.com/SublimeLinter/SublimeLinter-jscs)
+    - [Sublime Text 3 JSCS Formatter](https://github.com/TheSavior/SublimeJSCSFormatter)
+    - [Sublime Text 3 Ruby Extract Method](https://github.com/pashamur/ruby-extract-method)
+    - [Sublime Text 3 Ruby Slim](https://github.com/slim-template/ruby-slim.tmbundle)
+    - [Sublime Text 3 Rubocop](https://github.com/pderichs/sublime_rubocop)
+    - [Sublime Text 3 Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+    - [Sublime Text 3 SCSS](https://github.com/MarioRicalde/SCSS.tmbundle/tree/SublimeText2)
+    - [Sublime Text 3 CSScomb](https://github.com/csscomb/csscomb-for-sublime)
+    - [Sublime Text 3 Coffee Script](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
+    - [Sublime Text 3 HTML Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+    - [Sublime Text 3 DashDoc](https://github.com/farcaller/DashDoc)
+    - [Sublime Text 3 Table Editor](https://github.com/vkocubinsky/SublimeTableEditor)
     - [Google Chrome Rails Panel](https://github.com/dejan/rails_panel)
     - [Google Chrome Ember Inspector](https://github.com/tildeio/ember-extension)
     - [Google Chrome Chrome Logger](https://github.com/ccampbell/chromelogger)
@@ -221,7 +194,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v9.2.0
+    git checkout v10.0.0
 
 Master Version (unstable):
 
@@ -237,21 +210,23 @@ following command:
 
 Running the run.sh script will present the following options:
 
-    Install:
-      b: Apply basic system settings.
-      h: Install Homebrew software.
-      a: Install application software.
-      x: Install application extensions.
-      d: Apply software defaults.
-      s: Setup and configure installed software.
-      w: Clean work directory.
-      i: Install everything (i.e. executes all options, listed above, top to bottom).
+    Setup:
+      b:  Apply basic system settings.
+      h:  Install Homebrew software.
+      a:  Install application software.
+      x:  Install application extensions.
+      d:  Apply software defaults.
+      s:  Setup and configure installed software.
+      i:  Install everything (i.e. executes all options, listed above, top to bottom).
     Manage:
-      c: Check status of managed software.
-      C: Caffeinate machine.
-      A: Uninstall application software.
-      X: Uninstall application extension.
-      q: Quit/Exit.
+      c:  Check status of managed software.
+      C:  Caffeinate machine.
+      ua: Uninstall application software.
+      ux: Uninstall application extension.
+      ra: Reinstall application software.
+      rx: Reinstall application extension.
+      w:  Clean work (temp) directory.
+      q:  Quit/Exit.
 
 Choose option 'i' to run all install tasks or select a specific option to run a single task. Each task is designed to
 be re-run if necessary. This can also be handy for performing upgrades, re-running a missing/failed install, etc.
@@ -284,7 +259,7 @@ You can also modify the install scripts themselves by editing any of the followi
 - scripts/defaults.sh = Applies system and application defaults.
 - scripts/setup.sh = Configures and launches (if necessary) installed software.
 
-All Bash functions, used by the scripts defined above, can be found in the functions folder.
+All Bash functions, used by the scripts defined above, can be found in the `lib` folder of this project.
 
 # App Store Software
 
@@ -323,7 +298,6 @@ I also recommend installing the following software found via the
 - [CCMenu](http://ccmenu.sourceforge.net)
 - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - [MoneyWell](http://nothirst.com/moneywell)
-- [Deliveries](http://junecloud.com/software/mac/deliveries.html)
 - [Slack](https://slack.com)
 - [Tweetbot](http://tapbots.com/tweetbot/mac)
 
@@ -402,4 +376,4 @@ Built with [Gemsmith](https://github.com/bkuhlmann/gemsmith).
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
