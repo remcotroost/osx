@@ -37,7 +37,7 @@ while true; do
     printf "    ux: Uninstall application extension.\n"
     printf "    ra: Reinstall application software.\n"
     printf "    rx: Reinstall application extension.\n"
-    printf "    w:  Clean work directory.\n"
+    printf "    w:  Clean work (temp) directory.\n"
     printf "    q:  Quit/Exit.\n\n"
     read -p "Enter selection: " response
     printf "\n"
