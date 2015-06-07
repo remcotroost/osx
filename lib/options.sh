@@ -47,10 +47,10 @@ process_option() {
     'C')
       caffeinate_machine
       break;;
-    'A')
+    'Ua')
       uninstall_application
       break;;
-    'X')
+    'Ux')
       uninstall_extension
       break;;
     'Ra')
