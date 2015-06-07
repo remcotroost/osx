@@ -29,7 +29,6 @@ while true; do
     printf "    x:  Install application extensions.\n"
     printf "    d:  Apply software defaults.\n"
     printf "    s:  Setup and configure installed software.\n"
-    printf "    w:  Clean work directory.\n"
     printf "    i:  Install everything (i.e. executes all options, listed above, top to bottom).\n"
     printf "  Manage:\n"
     printf "    c:  Check status of managed software.\n"
@@ -38,6 +37,7 @@ while true; do
     printf "    Ux: Uninstall application extension.\n"
     printf "    Ra: Reinstall application software.\n"
     printf "    Rx: Reinstall application extension.\n"
+    printf "    w:  Clean work directory.\n"
     printf "    q:  Quit/Exit.\n\n"
     read -p "Enter selection: " response
     printf "\n"

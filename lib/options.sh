@@ -26,9 +26,6 @@ process_option() {
     's')
       scripts/setup.sh
       break;;
-    'w')
-      clean_work_path
-      break;;
     'i')
       caffeinate_machine
       scripts/basic.sh
@@ -58,6 +55,9 @@ process_option() {
       break;;
     'Rx')
       reinstall_extension
+      break;;
+    'w')
+      clean_work_path
       break;;
     'q')
       break;;
