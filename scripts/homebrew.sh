@@ -139,6 +139,9 @@ brew install redis
 # PostgreSQL
 brew install postgresql
 
+# pgcli
+brew install pgcli
+
 # Wry
 brew install wry
 
