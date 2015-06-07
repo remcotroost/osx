@@ -44,16 +44,16 @@ process_option() {
     'C')
       caffeinate_machine
       break;;
-    'Ua')
+    'ua')
       uninstall_application
       break;;
-    'Ux')
+    'ux')
       uninstall_extension
       break;;
-    'Ra')
+    'ra')
       reinstall_application
       break;;
-    'Rx')
+    'rx')
       reinstall_extension
       break;;
     'w')
