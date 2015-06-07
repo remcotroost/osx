@@ -148,8 +148,5 @@ brew install lnav
 # cloc
 brew install cloc
 
-# Mackup
-brew install mackup
-
 # Terminal Notifier
 brew install terminal-notifier
