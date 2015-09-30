@@ -204,7 +204,7 @@ export PSEQUEL_APP_NAME=PSequel.app
 export PSEQUEL_APP_URL="http://www.psequel.com/download"
 
 export SEQUEL_PRO_APP_NAME="Sequel Pro.app"
-export SEQUEL_PRO_APP_URL="https://sequel-pro.googlecode.com/files/sequel-pro-1.0.2.dmg"
+export SEQUEL_PRO_APP_URL="https://github.com/sequelpro/sequelpro/releases/download/release-1.1/sequel-pro-1.1.dmg"
 
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="http://mediaatelier.com/CheatSheet/CheatSheet_1.2.2.zip"
