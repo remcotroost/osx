@@ -168,7 +168,7 @@ export FIREFOX_APP_NAME=Firefox.app
 export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-41.0.1-SSL&os=osx&lang=en-US"
 
 export OPERA_APP_NAME=Opera.app
-export OPERA_APP_URL="http://get.geo.opera.com.global.prod.fastly.net/pub/opera/desktop/29.0.1795.60/mac/Opera_29.0.1795.60_Setup.dmg"
+export OPERA_APP_URL="http://get.geo.opera.com.global.prod.fastly.net/pub/opera/desktop/32.0.1948.69/mac/Opera_32.0.1948.69_Setup.dmg"
 
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
