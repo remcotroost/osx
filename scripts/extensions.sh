@@ -143,12 +143,3 @@ install_git_app "$DASH_DOC_EXTENSION_URL" "$DASH_DOC_EXTENSION_PATH"
 
 # Sublime Text - Table Editor
 install_git_app "$TABLE_EDITOR_EXTENSION_URL" "$TABLE_EDITOR_EXTENSION_PATH"
-
-# Google Chrome - Rails Panel
-install_git_app "$RAILS_PANEL_EXTENSION_URL" "$RAILS_PANEL_EXTENSION_PATH"
-
-# Google Chrome - Ember Inspector
-install_git_app "$EMBER_INSPECTOR_EXTENSION_URL" "$EMBER_INSPECTOR_EXTENSION_PATH"
-
-# Google Chrome - Chrome Logger
-install_git_app "$CHROME_LOGGER_EXTENSION_URL" "$CHROME_LOGGER_EXTENSION_PATH"

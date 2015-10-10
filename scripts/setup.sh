@@ -49,12 +49,6 @@ launch_process "/usr/local/opt/redis/homebrew.mxcl.redis.plist"
 # Pow
 curl get.pow.cx | sh
 
-# Google Chrome Ember Inspector
-(
-  cd "$EMBER_INSPECTOR_EXTENSION_PATH"
-  grunt
-)
-
 # Sublime Text Setup
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime

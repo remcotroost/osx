@@ -156,14 +156,6 @@ export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/5.0.3/Tor
 export CHROME_APP_NAME="Google Chrome.app"
 export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome.dmg"
 
-export CHROME_EXTENSION_ROOT="$HOME/Apps/Google/Chrome/Extensions"
-export RAILS_PANEL_EXTENSION_PATH="$CHROME_EXTENSION_ROOT/RailsPanel"
-export RAILS_PANEL_EXTENSION_URL="git://github.com/dejan/rails_panel.git"
-export EMBER_INSPECTOR_EXTENSION_PATH="$CHROME_EXTENSION_ROOT/EmberInspector"
-export EMBER_INSPECTOR_EXTENSION_URL="git://github.com/tildeio/ember-extension.git"
-export CHROME_LOGGER_EXTENSION_PATH="$CHROME_EXTENSION_ROOT/ChromeLogger"
-export CHROME_LOGGER_EXTENSION_URL="git://github.com/ccampbell/chromelogger.git"
-
 export FIREFOX_APP_NAME=Firefox.app
 export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-41.0.1-SSL&os=osx&lang=en-US"
 
