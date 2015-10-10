@@ -27,7 +27,12 @@ verify_homebrews() {
     if [[ "$line" == "brew install"* ]]; then
       local application=$(printf "$line" | awk '{print $3}')
 
-      # Caveat: "hg" is known as "mercurial" to the system.
+      # Exception: "gpg" is the binary but is listed as "gnugp".
+      if [[ "$application" == "gpg" ]]; then
+        application="gnupg"
+      fi
+
+      # Exception: "hg" is the binary but is listed as "mercurial".
       if [[ "$application" == "hg" ]]; then
         application="mercurial"
       fi
