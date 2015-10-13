@@ -61,7 +61,6 @@ export -f get_install_path
 
 # Cleans work path for temporary processing of installs.
 clean_work_path() {
-  printf "Cleaning: $WORK_PATH...\n"
   rm -rf "$WORK_PATH"
 }
 export -f clean_work_path
