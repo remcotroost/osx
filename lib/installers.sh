@@ -29,7 +29,7 @@ download_installer() {
   printf "Downloading $1...\n"
   clean_work_path
   mkdir $WORK_PATH
-  curl --location --retry 3 --retry-delay 5 "$1" >> "$WORK_PATH/$2"
+  curl --location --retry 3 --retry-delay 5 --fail --silent --show-error "$1" >> "$WORK_PATH/$2"
 }
 export -f download_installer
 
