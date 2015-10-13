@@ -260,12 +260,12 @@ export -f install_git_project
 # $1 = The URL.
 # $2 = The install path.
 install_file() {
-  local file_url=$(dirname "$1")
+  local file_url="$1"
   local file_name=$(get_file_name "$1")
   local install_path="$2"
 
   if [[ ! -e "$install_path" ]]; then
-    printf "Installing: $install_path/$file_name...\n"
+    printf "Installing: $install_path...\n"
     download_installer "$file_url" "$file_name"
     mkdir -p $(dirname "$install_path")
     mv "$WORK_PATH/$file_name" "$install_path"
