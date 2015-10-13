@@ -8,7 +8,7 @@
 # $1 = The image path.
 mount_image() {
   printf "Mounting image...\n"
-  hdiutil attach "$1" -noidmereveal
+  hdiutil attach "$1" -quiet
 }
 export -f mount_image
 
