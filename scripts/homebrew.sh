@@ -27,6 +27,9 @@ brew install bash
 # Bash Completion
 brew install bash-completion
 
+# Vim
+brew install vim
+
 # asciinema
 brew install asciinema
 
