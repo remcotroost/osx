@@ -17,7 +17,7 @@ export WORK_PATH=/tmp/downloads # Temporary location for processing of file down
 export MRI=2.2.3
 
 # Repositories
-REPO_RUBY_SETUP=v2.0.0
+REPO_RUBY_SETUP=v3.0.0
 REPO_GO_SETUP=v0.1.2
 REPO_NPM_SETUP=v0.6.0
 REPO_SUBLIME_TEXT_SETUP=v3.0.0
