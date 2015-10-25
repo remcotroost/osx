@@ -193,7 +193,7 @@ export PG_ADMIN_APP_NAME=pgAdmin3.app
 export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/release/v1.20.0/osx/pgadmin3-1.20.0.dmg"
 
 export PSEQUEL_APP_NAME=PSequel.app
-export PSEQUEL_APP_URL="http://www.psequel.com/download"
+export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"
 
 export SEQUEL_PRO_APP_NAME="Sequel Pro.app"
 export SEQUEL_PRO_APP_URL="https://github.com/sequelpro/sequelpro/releases/download/release-1.1/sequel-pro-1.1.dmg"
