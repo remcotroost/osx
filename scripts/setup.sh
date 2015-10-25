@@ -34,7 +34,6 @@ install_git_project "git://github.com/bkuhlmann/go_setup.git" $REPO_GO_SETUP "go
 install_git_project "git://github.com/bkuhlmann/npm_setup.git" $REPO_NPM_SETUP "npm_setup" "./run.sh i"
 
 # PostgreSQL
-initdb /usr/local/var/postgres -E utf8
 launch_process "/usr/local/opt/postgresql/homebrew.mxcl.postgresql.plist"
 
 # Nginx
