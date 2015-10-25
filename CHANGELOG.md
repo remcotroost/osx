@@ -1,3 +1,56 @@
+# v11.0.0 (2015-10-25)
+
+- Fixed "gpg" binary verification error.
+- Fixed PostgreSQL setup.
+- Fixed Vim Pathogen extension URL.
+- Fixed bug with single file install.
+- Fixed export of repository settings.
+- Fixed link to DoubleTake download.
+- Fixed setup of default desktop background.
+- Added [GPG](https://www.gnupg.org) Homebrew install.
+- Added [HTTPie](https://github.com/jkbrzt/httpie) Homebrew install.
+- Added [KeyCastr](https://github.com/keycastr/keycastr) app install.
+- Added [Rust](https://www.rust-lang.org) Homebrew install.
+- Added [Sublime Text - Sublime SCSS Lint](https://github.com/attenzione/SublimeLinter-scss-lint) extension.
+- Added [Tor Browser](https://www.torproject.org) install.
+- Added [Vim](http://www.vim.org) Homebrew install.
+- Added [Watchman](https://github.com/facebook/watchman) Homebrew install.
+- Added project name to README.
+- Added table of contents to README.
+- Updated PSequel URL to always be the latest download.
+- Updated README with El Capitan details.
+- Updated application/extension installs to not show status.
+- Updated ksdiff install to always download the latest version.
+- Updated to Alfred 2.8.
+- Updated to AppCleaner 3.0.2.
+- Updated to Bartender 2.
+- Updated to Carbon Copy Cloner 4.1.4.
+- Updated to Cloak 2.0.14.
+- Updated to CloudApp 3.5.3.
+- Updated to Code of Conduct 1.2.0.
+- Updated to Dotfiles 18.0.0.
+- Updated to Firefox 41.0.
+- Updated to Go Setup 0.2.0.
+- Updated to IconJar 0.7.
+- Updated to Knox 2.3.2.
+- Updated to Marked 2.
+- Updated to NPM Setup 0.7.0.
+- Updated to Opera 32.0.
+- Updated to Ruby 2.2.3.
+- Updated to Ruby Setup 3.0.0.
+- Updated to Sequel Pro 1.1.
+- Updated to Sublime Text Setup 3.1.0.
+- Updated to Trailer 1.3.9.
+- Updated to VirtualBox 5.0.6.
+- Updated to iTerm 2.1.4.
+- Removed Acorn app install.
+- Removed CloudApp install.
+- Removed Google Chrome extensions.
+- Removed JRuby support.
+- Removed Snippets application install.
+- Removed cleaning of download directory message during install.
+- Removed verbose output from image mounts during install.
+
 # v10.0.0 (2015-06-07)
 
 - Removed Atom (editor) support.

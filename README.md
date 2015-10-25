@@ -35,8 +35,10 @@ Shell scripts for automated OS X machine setup.
 - Downloads, installs, and configures [Homebrew](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [OpenSSL](https://openssl.org)
+    - [GPG](https://www.gnupg.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
+    - [Vim](http://www.vim.org)
     - [asciinema](https://asciinema.org)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Colorized Cat](https://github.com/jingweno/ccat)
@@ -57,6 +59,7 @@ Shell scripts for automated OS X machine setup.
     - [jq](http://stedolan.github.com/jq)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
+    - [HTTPie](https://github.com/jkbrzt/httpie)
     - [Ioping](https://code.google.com/p/ioping)
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Namebench](https://code.google.com/p/namebench)
@@ -72,7 +75,7 @@ Shell scripts for automated OS X machine setup.
     - [rbenv-vars](https://github.com/sstephenson/rbenv-vars)
     - [rbenv-ctags](https://github.com/tpope/rbenv-ctags)
     - [Ruby](http://www.ruby-lang.org)
-    - [JRuby](http://jruby.org)
+    - [Rust](https://www.rust-lang.org)
     - [Go](http://golang.org)
     - [FZF](https://github.com/junegunn/fzf)
     - [Peco](https://github.com/peco/peco)
@@ -86,10 +89,10 @@ Shell scripts for automated OS X machine setup.
     - [lnav](http://braumeister.org/formula/lnav)
     - [cloc](http://cloc.sourceforge.net)
     - [Terminal Notifier](https://github.com/alloy/terminal-notifier)
+    - [Watchman](https://github.com/facebook/watchman)
 
 - Downloads, installs, and configures software applications generally not in the [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
     - [Dropbox](https://www.dropbox.com)
-    - [CloudApp](http://www.getcloudapp.com)
     - [Knox](https://agilebits.com/knox)
     - [iTerm2](http://www.iterm2.com)
     - [GitUp](http://gitup.co)
@@ -98,15 +101,14 @@ Shell scripts for automated OS X machine setup.
     - [Alfred](http://www.alfredapp.com)
     - [TextExpander](http://www.smilesoftware.com/TextExpander)
     - [Path Finder](http://cocoatech.com)
-    - [Firefox](http://www.mozilla.com/en-US/firefox)
+    - [Tor Browser](https://www.torproject.org)
     - [Google Chrome](http://www.google.com/chrome)
+    - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Opera](http://www.opera.com)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Transmit](https://panic.com/transmit)
     - [iStat Menus](http://bjango.com/apps/istatmenus)
     - [Bartender](http://www.macbartender.com)
-    - [Snippets](http://www.snippetsapp.com)
-    - [Acorn](http://flyingmeat.com/acorn)
     - [DoubleTake](http://echoone.com/doubletake)
     - [ImageOptim](http://imageoptim.pornel.net)
     - [Iconjar](http://geticonjar.com)
@@ -127,6 +129,7 @@ Shell scripts for automated OS X machine setup.
     - [Trailer](http://ptsochantaris.github.io/trailer)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
+    - [KeyCastr](https://github.com/keycastr/keycastr)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
 - Downloads, installs, and configures software extensions:
     - [Vim Pathogen](https://github.com/tpope/vim-pathogen)
@@ -169,14 +172,12 @@ Shell scripts for automated OS X machine setup.
     - [Sublime Text 3 Rubocop](https://github.com/pderichs/sublime_rubocop)
     - [Sublime Text 3 Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
     - [Sublime Text 3 SCSS](https://github.com/MarioRicalde/SCSS.tmbundle/tree/SublimeText2)
+    - [Sublime Text 3 SCSS Lint](https://github.com/attenzione/SublimeLinter-scss-lint)
     - [Sublime Text 3 CSScomb](https://github.com/csscomb/csscomb-for-sublime)
     - [Sublime Text 3 Coffee Script](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
     - [Sublime Text 3 HTML Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
     - [Sublime Text 3 DashDoc](https://github.com/farcaller/DashDoc)
     - [Sublime Text 3 Table Editor](https://github.com/vkocubinsky/SublimeTableEditor)
-    - [Google Chrome Rails Panel](https://github.com/dejan/rails_panel)
-    - [Google Chrome Ember Inspector](https://github.com/tildeio/ember-extension)
-    - [Google Chrome Chrome Logger](https://github.com/ccampbell/chromelogger)
 
 # Requirements
 
@@ -223,7 +224,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v10.0.0
+    git checkout v11.0.0
 
 Master Version (unstable):
 
