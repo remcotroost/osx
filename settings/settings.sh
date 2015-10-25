@@ -171,8 +171,8 @@ export TRANSMIT_APP_URL="https://www.panic.com/transmit/d/Transmit%204.4.8.zip"
 export ISTATS_APP_NAME="iStat Menus.app"
 export ISTATS_APP_URL="http://download.bjango.com/istatmenus"
 
-export BARTENDER_APP_NAME=Bartender.app
-export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender.zip"
+export BARTENDER_APP_NAME="Bartender 2.app"
+export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender%202.zip"
 
 export SNIPPETS_APP_NAME=Snippets.app
 export SNIPPETS_APP_URL="http://www.snippetsapp.com/download/Snippets-1.4.3.zip"
