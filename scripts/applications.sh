@@ -70,7 +70,7 @@ install_dmg_app "$VLC_APP_URL" "vlc-2.2.1" "$VLC_APP_NAME"
 # PG Admin
 install_dmg_app "$PG_ADMIN_APP_URL" "pgAdmin3" "$PG_ADMIN_APP_NAME"
 
-# PSequael
+# PSequel
 install_zip_app "$PSEQUEL_APP_URL" "$PSEQUEL_APP_NAME"
 
 # Sequel Pro
