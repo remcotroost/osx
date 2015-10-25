@@ -178,7 +178,7 @@ export SNIPPETS_APP_NAME=Snippets.app
 export SNIPPETS_APP_URL="http://www.snippetsapp.com/download/Snippets-1.4.3.zip"
 
 export DOUBLETAKE_APP_NAME=DoubleTake.app
-export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/DoubleTake.dmg"
+export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/upgrade/DoubleTake.zip"
 
 export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"

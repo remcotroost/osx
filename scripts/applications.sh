@@ -59,7 +59,7 @@ install_zip_app "$BARTENDER_APP_URL" "$BARTENDER_APP_NAME"
 install_zip_app "$SNIPPETS_APP_URL" "$SNIPPETS_APP_NAME"
 
 # DoubleTake
-install_dmg_app "$DOUBLETAKE_APP_URL" "DoubleTake" "$DOUBLETAKE_APP_NAME"
+install_zip_app "$DOUBLETAKE_APP_URL" "$DOUBLETAKE_APP_NAME"
 
 # ImageOptim
 install_tar_app "$IMAGE_OPTIM_APP_URL" "$IMAGE_OPTIM_APP_NAME" "-xjf"
