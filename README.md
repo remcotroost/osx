@@ -1,6 +1,6 @@
 # OSX
 
-Shell scripts for automated OSX machine setup.
+Shell scripts for automated OS X machine setup.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -9,17 +9,17 @@ Shell scripts for automated OSX machine setup.
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
-    - [OSX (Yosemite)](#osx-yosemite)
-        - [Bootdisk](#bootdisk)
-        - [Upgrade](#upgrade)
-        - [Reinstall](#reinstall)
-    - [Clone Project](#clone-project)
+  - [OS X (El Capitan)](#os-x-el-capitan)
+    - [Bootdisk](#bootdisk)
+    - [Upgrade](#upgrade)
+    - [Reinstall](#reinstall)
+  - [Clone Project](#clone-project)
 - [Usage](#usage)
-    - [Customization](#customization)
+  - [Customization](#customization)
 - [Additional Software](#additional-software)
-    - [App Store](#app-store)
-    - [Miscellaneous](#miscellaneous)
-    - [Post Install Checklist](#post-install-checklist)
+  - [App Store](#app-store)
+  - [Miscellaneous](#miscellaneous)
+  - [Post Install Checklist](#post-install-checklist)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
 - [Contributions](#contributions)
@@ -180,25 +180,25 @@ Shell scripts for automated OSX machine setup.
 
 # Requirements
 
-0. [OSX](http://www.apple.com/osx)
-0. [OSX Software Updates](http://www.apple.com/osx)
+0. [OS X](http://www.apple.com/osx)
+0. [OS X Software Updates](http://www.apple.com/osx)
 0. [Xcode](https://developer.apple.com/downloads) (with accepted license agreement)
 0. [Command Line Tools for Xcode](https://developer.apple.com/downloads)
 0. [Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 # Setup
 
-## OSX (Yosemite)
+## OS X (El Capitan)
 
 ### Bootdisk
 
 0. Insert a USB drive (8GB or higher is best).
 0. Open Disk Utility and format the USB drive (leave the label as "Untitled").
-0. Download OSX Yosemite via the App Store but *DO NOT INSTALL*.
+0. Download OS X El Capitan via the App Store but *DO NOT INSTALL*.
 0. Run this command to turn the USB drive into bootable image:
 
-        sudo "/Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia" --volume /Volumes/Untitled --applicationpath "/Applications/Install OS X Yosemite.app" --nointeraction
-0. Exit the OSX Yosemite install.
+        sudo "/Applications/Install OS X El Capitan.app/Contents/Resources/createinstallmedia" --volume /Volumes/Untitled --applicationpath "/Applications/Install OS X El Capitan.app" --nointeraction
+0. Exit the OS X El Capitan install.
 0. Eject the USB drive.
 
 ### Upgrade
@@ -212,7 +212,7 @@ Shell scripts for automated OSX machine setup.
 
 ### Reinstall
 
-If you have already installed OSX but want to reinstall it, simply reboot the machine and hold down CONTROL+R.
+If you have already installed OS X but want to reinstall it, simply reboot the machine and hold down CONTROL+R.
 This will load the installer from the recovery partition and allow you to use Disk Utility, reinstall the system, etc.
 
 ## Clone Project
@@ -283,7 +283,7 @@ You can also modify the install scripts themselves by editing any of the followi
 
 - scripts/basic.sh = Applies basic system settings.
 - scripts/homebrew.sh = Installs Homebrew, command line, software.
-- scripts/applications.sh = Installs OSX, GUI-based, applications.
+- scripts/applications.sh = Installs OS X, GUI-based, applications.
 - scripts/extensions.sh = Installs application extensions.
 - scripts/defaults.sh = Applies system and application defaults.
 - scripts/setup.sh = Configures and launches (if necessary) installed software.
