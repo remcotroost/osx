@@ -1,5 +1,7 @@
 # OSX
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
+
 Shell scripts for automated OS X machine setup.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
