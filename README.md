@@ -215,7 +215,7 @@ Shell scripts for automated OS X machine setup.
 
 ### Reinstall
 
-If you have already installed OS X but want to reinstall it, simply reboot the machine and hold down CONTROL+R.
+If you have already installed OS X but want to reinstall it, simply reboot the machine and hold down *COMMAND+R*.
 This will load the installer from the recovery partition and allow you to use Disk Utility, reinstall the system, etc.
 
 ## Clone Project
