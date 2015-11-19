@@ -4,8 +4,8 @@
 
 Shell scripts for automated OS X machine setup.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- Tocer[start]: Auto-generated, don't remove. -->
+
 # Table of Contents
 
 - [Features](#features)
@@ -29,7 +29,7 @@ Shell scripts for automated OS X machine setup.
 - [History](#history)
 - [Credits](#credits)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- Tocer[finish]: Auto-generated, don't remove. -->
 
 # Features
 
