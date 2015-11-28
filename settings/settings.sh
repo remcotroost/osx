@@ -235,7 +235,7 @@ export QUICK_LOOK_PLAIN_TEXT_APP_NAME="QLStephen.qlgenerator"
 export QUICK_LOOK_PLAIN_TEXT_APP_URL="https://github.com/downloads/whomwah/qlstephen/QLStephen.qlgenerator.zip"
 
 export KEYCASTR_APP_NAME="KeyCastr.app"
-export KEYCASTR_APP_URL="https://github.com/keycastr/keycastr/releases/download/v0.8.5/KeyCastr.app.zip"
+export KEYCASTR_APP_URL="https://github.com/keycastr/keycastr/releases/download/v0.9.0/KeyCastr.app.zip"
 
 export KSDIFF_APP_NAME="ksdiff"
 export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
