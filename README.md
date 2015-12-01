@@ -349,35 +349,20 @@ The following software is optional:
 
 The following is a checklist of additional steps worth completing after the scripts have been executed:
 
-- Configure Security & Privacy:
+- Configure System Preferences:
+  - Security & Privacy:
+    - Enable FileVault and record the recovery key.
     - Require password immediately after sleep or screen saver begins.
-    - Show a message when the screen is locked. Example: `<twitter> | <email> | <phone> | <url>`
-    - Enable FileVault.
-- Configure iCloud:
+    - Show a message when the screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+  - Internet Accounts:
+    - Add all accounts used by Mail.
+  - Configure iCloud:
     - Enable Find My Mac.
+  - Users & Groups:
+    - Update avatar.
+    - Remove unused login items.
+  - Configure printers and scanners.
 - Configure Wi-Fi.
-- Configure printer.
-- Configure scanner.
-- Configure Internet Accounts.
-- Configure Contacts.
-- Configure Calendar.
-- Configure Google Chrome:
-    - Open the Flags tab (i.e. chrome://flags)
-        - Enable "Experimental Extension APIs".
-        - Enable "Developer Tools Experiments".
-        - Enable "Enable experimental Web Platform features".
-    - Open Web Inspector Developer Tools (COMMAND+OPTION+I) and click the gear (lower right corner)
-        - Click the Experiments tab.
-            - Enable "FileSystem inspection".
-            - Enable "Canvas inspection."
-        - Click the General tab.
-            - Enable "CSS Source maps".
-                - Enable "Auto-reload generated CSS".
-    - Open the Settings tab (i.e. chrome:://settings)
-        - Passwords and Forms
-            - Disable "Enable Autofill to fill out web forms in a single click".
-            - Disable "Offer to save your web passwords".
-- Configure previously installed applications.
 
 # Versioning
 
