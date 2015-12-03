@@ -226,7 +226,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v11.0.0
+    git checkout v11.1.0
 
 Master Version (unstable):
 

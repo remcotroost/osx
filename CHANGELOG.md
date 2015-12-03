@@ -1,3 +1,23 @@
+# v11.1.0 (2015-12-02)
+
+- Fixed OS X reinstall command key README documentation.
+- Added Patreon badge to README.
+- Added [HandBrake](https://handbrake.fr) application install.
+- Updated README post-install checklist.
+- Updated README with Tocer generated Table of Contents.
+- Updated to Alfred 2.8.1.
+- Updated to AppCleaner 3.2.1.
+- Updated to Cloak 2.0.15.
+- Updated to Code of Conduct 1.3.0.
+- Updated to Dotfiles 18.1.0.
+- Updated to Firefox 42.0.
+- Updated to KeyCastr 0.9.0.
+- Updated to Opera 33.0.
+- Updated to Sublime Text Setup 3.2.0.
+- Updated to Tor 5.0.4.
+- Updated to Trailer 1.3.10.
+- Updated to VirtualBox 5.0.10.
+
 # v11.0.0 (2015-10-25)
 
 - Fixed "gpg" binary verification error.
