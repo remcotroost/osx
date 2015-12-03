@@ -21,7 +21,7 @@ export REPO_RUBY_SETUP=v3.0.0
 export REPO_GO_SETUP=v0.2.0
 export REPO_NPM_SETUP=v0.7.0
 export REPO_SUBLIME_TEXT_SETUP=v3.1.0
-export REPO_DOTFILES=v18.0.0
+export REPO_DOTFILES=v18.1.0
 
 # Applications
 export DROPBOX_APP_NAME=Dropbox.app
