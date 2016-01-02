@@ -1,3 +1,23 @@
+# v11.2.0 (2016-01-02)
+
+- Fixed printing of application install downloads.
+- Updated to Carbon Copy Cloner 4.1.6.4255.
+- Updated to Dotfiles 19.0.0.
+- Updated to Firefox 43.0.3.
+- Updated to Go Setup 0.3.0.
+- Updated to IconJar 0.81.
+- Updated to KeyCaster 0.9.2.
+- Updated to NPM Setup 0.8.0.
+- Updated to Open Office 4.1.2.
+- Updated to Opera 34.0.2036.25.
+- Updated to Ruby 2.3.0.
+- Updated to Ruby Setup 3.1.0.
+- Updated to Sublime Text Setup 3.3.0.
+- Updated to Tor Browser 5.0.6.
+- Updated to Trailer 1.3.11.
+- Updated to Transmit 4.4.10.
+- Updated to VirtualBox 5.0.12-104815.
+
 # v11.1.0 (2015-12-02)
 
 - Fixed OS X reinstall command key README documentation.
