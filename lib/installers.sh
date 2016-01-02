@@ -26,7 +26,7 @@ export -f unmount_image
 # $1 = The URL.
 # $2 = The file name.
 download_installer() {
-  printf "Downloading $1...\n"
+  printf "%s\n" "Downloading $1..."
   clean_work_path
   mkdir $WORK_PATH
   curl --location --retry 3 --retry-delay 5 --fail --silent --show-error "$1" >> "$WORK_PATH/$2"
