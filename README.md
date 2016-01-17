@@ -326,6 +326,7 @@ I also recommend installing the following software found via the
 - [Paw](http://luckymarmot.com/paw)
 - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
 - [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
+- [Medis](http://getmedis.com)
 - [Day One](http://dayoneapp.com)
 - [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
 - [iMovie](http://www.apple.com/ilife/imovie)
