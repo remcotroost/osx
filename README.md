@@ -319,7 +319,6 @@ I also recommend installing the following software found via the
 - [Acorn](https://secure.flyingmeat.com/acorn)
 - [Pixelmator](http://www.pixelmator.com)
 - [Sketch](http://bohemiancoding.com/sketch)
-- [GIF Brewery](http://www.helloresolven.com/portfolio/gifbrewery)
 - [Prepo](http://wearemothership.com/work/prepo)
 - [Name Mangler](http://manytricks.com/namemangler)
 - [Kaleidoscope](http://www.kaleidoscopeapp.com)
