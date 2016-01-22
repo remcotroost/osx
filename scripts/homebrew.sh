@@ -16,7 +16,7 @@ brew install readline
 
 # OpenSSL
 brew install openssl
-brew link openssl --force
+brew link --force openssl
 
 # GPG
 brew install gpg
