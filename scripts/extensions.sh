@@ -99,6 +99,9 @@ install_git_app "$EMMET_EXTENSION_URL" "$EMMET_EXTENSION_PATH"
 # Sublime Text - Emmet LiveStyle
 install_git_app "$EMMET_LIVE_STYLE_EXTENSION_URL" "$EMMET_LIVE_STYLE_EXTENSION_PATH"
 
+# Sublime Text - Elm
+install_git_app "$ELM_EXTENSION_URL" "$ELM_EXTENSION_PATH"
+
 # Sublime Text - Web Inspector
 install_git_app "$WEB_INSPECTOR_EXTENSION_URL" "$WEB_INSPECTOR_EXTENSION_PATH"
 
