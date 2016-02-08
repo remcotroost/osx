@@ -118,6 +118,9 @@ brew install gifsicle
 # Node
 brew install node
 
+# Elm
+brew install elm
+
 # Phantom.js
 brew install phantomjs
 
