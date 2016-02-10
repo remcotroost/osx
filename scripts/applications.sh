@@ -88,9 +88,6 @@ install_dmg_app "$CLOAK_APP_URL" "Cloak" "$CLOAK_APP_NAME"
 # Screenhero
 install_dmg_app "$SCREENHERO_APP_URL" "Screenhero" "$SCREENHERO_APP_NAME"
 
-# Speak
-install_dmg_app "$SPEAK_APP_URL" "Speak Installer" "$SPEAK_APP_NAME"
-
 # VirtualBox
 install_dmg_pkg "$VIRTUAL_BOX_APP_URL" "VirtualBox" "$VIRTUAL_BOX_APP_NAME"
 

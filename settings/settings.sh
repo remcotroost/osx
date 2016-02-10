@@ -209,9 +209,6 @@ export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/
 export SCREENHERO_APP_NAME=Screenhero.app
 export SCREENHERO_APP_URL="http://dl.screenhero.com/update/screenhero/Screenhero.dmg"
 
-export SPEAK_APP_NAME=Speak.app
-export SPEAK_APP_URL="https://s3.amazonaws.com/speak-production-releases/darwin/install-speak.dmg"
-
 export VIRTUAL_BOX_APP_NAME=VirtualBox.app
 export VIRTUAL_BOX_APP_URL="http://download.virtualbox.org/virtualbox/5.0.12/VirtualBox-5.0.12-104815-OSX.dmg"
 
