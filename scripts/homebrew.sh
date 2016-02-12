@@ -85,6 +85,9 @@ brew install jq
 # The Silver Searcher
 brew install the_silver_searcher
 
+# Htop
+brew install htop
+
 # Pipe Viewer
 brew install pv
 
