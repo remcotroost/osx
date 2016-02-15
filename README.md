@@ -15,13 +15,13 @@ Shell scripts for automated OS X machine setup.
     - [Bootdisk](#bootdisk)
     - [Upgrade](#upgrade)
     - [Reinstall](#reinstall)
-  - [Clone Project](#clone-project)
+  - [Cloning](#cloning)
 - [Usage](#usage)
   - [Customization](#customization)
 - [Additional Software](#additional-software)
   - [App Store](#app-store)
   - [Miscellaneous](#miscellaneous)
-  - [Post Install Checklist](#post-install-checklist)
+  - [Post Install](#post-install)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
 - [Contributions](#contributions)
@@ -218,7 +218,7 @@ Shell scripts for automated OS X machine setup.
 If you have already installed OS X but want to reinstall it, simply reboot the machine and hold down *COMMAND+R*.
 This will load the installer from the recovery partition and allow you to use Disk Utility, reinstall the system, etc.
 
-## Clone Project
+## Cloning
 
 Open a terminal window and execute one of the following setup sequences depending on your version preference:
 
@@ -345,24 +345,36 @@ The following software is optional:
 - [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download only)
 - [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
 
-## Post Install Checklist
+## Post Install
 
-The following is a checklist of additional steps worth completing after the scripts have been executed:
+The following are additional steps, not easily automated, that are worth completing after the install scripts have been
+executed:
 
 - Configure System Preferences:
   - Security & Privacy:
-    - Enable FileVault and record the recovery key.
-    - Require password immediately after sleep or screen saver begins.
-    - Show a message when the screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+    - General:
+      - Require password immediately after sleep or screen saver begins.
+      - Show contact info when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+      - Allow apps downloaded from App Store and identified developers.
+    - FileVault:
+      - Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
+    - Firewall:
+      - Enabled it.
+      - Automatically allow signed software.
+      - Enable stealth mode.
+    - Privacy:
+      - Apps like Cheat Sheet, Dash, Dropbox, Trailer, etc. will need to be enabled for accessibility.
+  - Printers & Scanners:
+    - Add printer/scanner.
+  - iCloud:
+    - Enable Find My Mac.
   - Internet Accounts:
     - Add all accounts used by Mail.
-  - Configure iCloud:
-    - Enable Find My Mac.
+  - Network:
+    - Configure Wi-Fi.
   - Users & Groups:
     - Update avatar.
     - Remove unused login items.
-  - Configure printers and scanners.
-- Configure Wi-Fi.
 
 # Versioning
 
