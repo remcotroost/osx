@@ -203,6 +203,9 @@ export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openoffice
 export CLOAK_APP_NAME=Cloak.app
 export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.0.15.dmg"
 
+export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
+export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
+
 export SCREENHERO_APP_NAME=Screenhero.app
 export SCREENHERO_APP_URL="http://dl.screenhero.com/update/screenhero/Screenhero.dmg"
 

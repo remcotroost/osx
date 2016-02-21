@@ -82,6 +82,9 @@ install_dmg_app "$OPEN_OFFICE_APP_URL" "OpenOffice" "$OPEN_OFFICE_APP_NAME"
 # Cloak
 install_dmg_app "$CLOAK_APP_URL" "Cloak" "$CLOAK_APP_NAME"
 
+# SurfEasy VPN
+install_dmg_app "$SURF_EASY_VPN_APP_URL" "SurfEasy VPN" "$SURF_EASY_VPN_APP_NAME"
+
 # Screenhero
 install_dmg_app "$SCREENHERO_APP_URL" "Screenhero" "$SCREENHERO_APP_NAME"
 
