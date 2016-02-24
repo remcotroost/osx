@@ -206,9 +206,6 @@ export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/
 export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
 export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
 
-export SCREENHERO_APP_NAME=Screenhero.app
-export SCREENHERO_APP_URL="http://dl.screenhero.com/update/screenhero/Screenhero.dmg"
-
 export VIRTUAL_BOX_APP_NAME=VirtualBox.app
 export VIRTUAL_BOX_APP_URL="http://download.virtualbox.org/virtualbox/5.0.12/VirtualBox-5.0.12-104815-OSX.dmg"
 
