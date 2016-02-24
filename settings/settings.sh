@@ -179,9 +179,6 @@ export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/upgrade/DoubleTake.zip"
 export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
 
-export ICONJAR_APP_NAME=IconJar.app
-export ICONJAR_APP_URL="https://rink.hockeyapp.net/api/2/apps/b91fcb22f1ac5013dad6ffde2dca7c79/app_versions/31?format=zip&avtoken=ab9fa8b75375001a787bfcc1f830a428ee41f8d2"
-
 export VLC_APP_NAME=VLC.app
 export VLC_APP_URL="http://get.videolan.org/vlc/2.2.1/macosx/vlc-2.2.1.dmg"
 
