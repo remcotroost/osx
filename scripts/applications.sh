@@ -13,9 +13,6 @@ install_zip_app "$KNOX_APP_URL" "$KNOX_APP_NAME"
 # iTerm
 install_zip_app "$ITERM_APP_URL" "$ITERM_APP_NAME"
 
-# GitUp
-install_zip_app "$GIT_UP_APP_URL" "$GIT_UP_APP_NAME"
-
 # Sublime Text
 install_dmg_app "$SUBLIME_TEXT_APP_URL" "Sublime Text" "$SUBLIME_TEXT_APP_NAME"
 
