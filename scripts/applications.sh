@@ -107,4 +107,4 @@ install_zip_app "$QUICK_LOOK_PLAIN_TEXT_APP_URL" "$QUICK_LOOK_PLAIN_TEXT_APP_NAM
 install_zip_pkg "$KSDIFF_APP_URL" "$KSDIFF_APP_NAME"
 
 # HandBrake
-install_dmg_app "$HAND_BRAKE_APP_URL" "HandBrake-0.10.2-MacOSX.6_GUI_x86_64" "$HAND_BRAKE_APP_NAME"
+install_dmg_app "$HAND_BRAKE_APP_URL" "HandBrake-0.10.5-MacOSX.6_GUI_x86_64" "$HAND_BRAKE_APP_NAME"

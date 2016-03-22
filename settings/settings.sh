@@ -228,4 +228,4 @@ export KSDIFF_APP_NAME="ksdiff"
 export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
 
 export HAND_BRAKE_APP_NAME="HandBrake.app"
-export HAND_BRAKE_APP_URL="https://handbrake.fr/rotation.php?file=HandBrake-0.10.2-MacOSX.6_GUI_x86_64.dmg"
+export HAND_BRAKE_APP_URL="http://handbrake.fr/rotation.php?file=HandBrake-0.10.5-MacOSX.6_GUI_x86_64.dmg"
