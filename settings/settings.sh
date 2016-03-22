@@ -219,7 +219,7 @@ export TRAILER_APP_NAME=Trailer.app
 export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer1316.zip"
 
 export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
-export CARBON_COPY_CLONER_APP_URL="https://70dd08a0984b0022574d-8064f6cbda3d6f2abd1c53b8bc16b17e.ssl.cf5.rackcdn.com/ccc-4.1.6.4255.zip"
+export CARBON_COPY_CLONER_APP_URL="https://70dd08a0984b0022574d-8064f6cbda3d6f2abd1c53b8bc16b17e.ssl.cf5.rackcdn.com/ccc-4.1.7.4285.zip"
 
 export QUICK_LOOK_PLAIN_TEXT_APP_NAME="QLStephen.qlgenerator"
 export QUICK_LOOK_PLAIN_TEXT_APP_URL="https://github.com/downloads/whomwah/qlstephen/QLStephen.qlgenerator.zip"
