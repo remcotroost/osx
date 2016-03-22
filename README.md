@@ -60,6 +60,7 @@ Shell scripts for automated OS X machine setup.
     - [Pigz](http://www.zlib.net/pigz)
     - [jq](http://stedolan.github.com/jq)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
+    - [htop](http://hisham.hm/htop)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
     - [HTTPie](https://github.com/jkbrzt/httpie)
     - [Ioping](https://code.google.com/p/ioping)
@@ -71,6 +72,7 @@ Shell scripts for automated OS X machine setup.
     - [FFmpeg](http://ffmpeg.org)
     - [Gifsicle](http://www.lcdf.org/gifsicle)
     - [Node.js](http://nodejs.org)
+    - [Elm](http://elm-lang.org)
     - [Phantom.js](http://phantomjs.org)
     - [rbenv](https://github.com/sstephenson/rbenv)
     - [rbenv-build](https://github.com/sstephenson/ruby-build)
@@ -97,7 +99,6 @@ Shell scripts for automated OS X machine setup.
     - [Dropbox](https://www.dropbox.com)
     - [Knox](https://agilebits.com/knox)
     - [iTerm2](http://www.iterm2.com)
-    - [GitUp](http://gitup.co)
     - [Sublime Text 3](http://www.sublimetext.com)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
     - [Alfred](http://www.alfredapp.com)
@@ -113,16 +114,13 @@ Shell scripts for automated OS X machine setup.
     - [Bartender](http://www.macbartender.com)
     - [DoubleTake](http://echoone.com/doubletake)
     - [ImageOptim](http://imageoptim.pornel.net)
-    - [Iconjar](http://geticonjar.com)
     - [VLC](http://www.videolan.org/vlc)
     - [pgAdmin](http://www.pgadmin.org/index.php)
     - [PSequel](http://www.psequel.com)
-    - [Sequel Pro](http://www.sequelpro.com)
     - [Cheatsheet](http://www.cheatsheetapp.com/CheatSheet)
     - [OpenOffice](http://www.openoffice.org)
     - [Cloak](https://www.getcloak.com)
-    - [Screenhero](http://screenhero.com)
-    - [Speak](http://speak.io)
+    - [SurfEasy VPN](https://www.surfeasy.com)
     - [VirtualBox](https://www.virtualbox.org)
     - [Doxie](http://www.getdoxie.com)
     - [Sonos](http://www.sonos.com)
@@ -131,7 +129,6 @@ Shell scripts for automated OS X machine setup.
     - [Trailer](http://ptsochantaris.github.io/trailer)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
-    - [KeyCastr](https://github.com/keycastr/keycastr)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
 - Downloads, installs, and configures software extensions:
     - [Vim Pathogen](https://github.com/tpope/vim-pathogen)
@@ -165,6 +162,7 @@ Shell scripts for automated OS X machine setup.
     - [Sublime Text 3 Easy Motion](https://github.com/tednaleid/sublime-EasyMotion)
     - [Sublime Text 3 Emmet](http://emmet.io)
     - [Sublime Text 3 Emmet LiveStyle](http://livestyle.emmet.io)
+    - [Sublime Text 3 Elm](https://github.com/deadfoxygrandpa/Elm.tmLanguage)
     - [Sublime Text 3 Web Inspector](http://sokolovstas.github.com/SublimeWebInspector)
     - [Sublime Text 3 Sublime Linter](https://github.com/SublimeLinter/SublimeLinter)
     - [Sublime Text 3 JSCS Linter](https://github.com/SublimeLinter/SublimeLinter-jscs)
@@ -226,7 +224,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v11.2.0
+    git checkout v12.0.0
 
 Master Version (unstable):
 

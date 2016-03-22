@@ -1,3 +1,41 @@
+# v12.0.0 (2016-03-21)
+
+- Fixed Homebrew install of OpenSSL.
+- Fixed README broken links.
+- Fixed contributing guideline links.
+- Added GitHub issue and pull request templates.
+- Added [Elm Sublime Text Extension](https://github.com/deadfoxygrandpa/Elm.tmLanguage)
+- Added [Elm](http://elm-lang.org) Homebrew install.
+- Added [Medis](http://getmedis.com) to the README App Store section.
+- Added [SurfEasy VPN](https://www.surfeasy.com) application install.
+- Added [htop](http://hisham.hm/htop) Homebrew install.
+- Updated README post install steps.
+- Updated to Alfred 2.8.3.
+- Updated to AppCleaner 3.3.
+- Updated to Carbon Copy Cloner 4.1.7.
+- Updated to CheatSheet 1.2.3.
+- Updated to Code of Conduct, Version 1.4.0.
+- Updated to Dotfiles 20.0.0.
+- Updated to Firefox 45.0.1.
+- Updated to HandBrake 0.10.5.
+- Updated to NPM Setup 0.9.0.
+- Updated to Opera 36.0.2130.
+- Updated to PG Admin 1.22.1.
+- Updated to Sequel Pro 1.1.0.1.
+- Updated to Sublime Text 3, Build 3103.
+- Updated to Sublime Text Setup 4.0.0.
+- Updated to TorBrowser 5.5.4.
+- Updated to Trailer 1.3.16.
+- Updated to VLC 2.2.2.
+- Updated to VirtualBox 5.0.16.
+- Removed GIF Brewery from README App Store list.
+- Removed GitUp application install.
+- Removed IconJar application installer.
+- Removed KeyCastr.
+- Removed Screenhero application install.
+- Removed Sequel Pro.
+- Removed Speak application install.
+
 # v11.2.0 (2016-01-02)
 
 - Fixed printing of application install downloads.
