@@ -27,6 +27,9 @@ brew install bash
 # Bash Completion
 brew install bash-completion
 
+# direnv
+brew install direnv
+
 # Vim
 brew install vim
 
