@@ -160,6 +160,9 @@ brew install redis
 # PostgreSQL
 brew install postgresql
 
+# Elasticsearch
+brew install elasticsearch
+
 # pgcli
 brew install pgcli
 
