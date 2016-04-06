@@ -161,6 +161,9 @@ export FIREFOX_APP_URL="https://download-installer.cdn.mozilla.net/pub/firefox/r
 export OPERA_APP_NAME=Opera.app
 export OPERA_APP_URL="http://download1.operacdn.com/pub/opera/desktop/36.0.2130.32/mac/Opera_36.0.2130.32_Setup.dmg"
 
+export VIVALDI_APP_NAME=Vivaldi.app
+export VIVALDI_APP_URL="https://download.vivaldi.com/stable/Vivaldi.1.0.435.42.dmg"
+
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
