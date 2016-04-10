@@ -40,6 +40,7 @@ Shell scripts for automated OS X machine setup.
     - [GPG](https://www.gnupg.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
+    - [direnv](http://direnv.net)
     - [Vim](http://www.vim.org)
     - [asciinema](https://asciinema.org)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
@@ -88,6 +89,7 @@ Shell scripts for automated OS X machine setup.
     - [Memcached](http://memcached.org)
     - [Redis](http://redis.io)
     - [PostgreSQL](http://www.postgresql.org)
+    - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [pgcli](http://pgcli.com)
     - [Wry](https://github.com/hoop33/wry)
     - [lnav](http://braumeister.org/formula/lnav)
@@ -108,6 +110,7 @@ Shell scripts for automated OS X machine setup.
     - [Google Chrome](http://www.google.com/chrome)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Opera](http://www.opera.com)
+    - [Vivaldi](https://vivaldi.com)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Transmit](https://panic.com/transmit)
     - [iStat Menus](https://bjango.com/mac/istatmenus)
@@ -127,6 +130,7 @@ Shell scripts for automated OS X machine setup.
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
     - [Hazel](http://www.noodlesoft.com/hazel.php)
     - [Trailer](http://ptsochantaris.github.io/trailer)
+    - [RescueTime](https://www.rescuetime.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
@@ -224,7 +228,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v12.0.0
+    git checkout v12.1.0
 
 Master Version (unstable):
 

@@ -1,3 +1,12 @@
+# v12.1.0 (2016-04-10)
+
+- Added [Elasticsearch](https://www.elastic.co/products/elasticsearch) Homebrew install.
+- Added [RescueTime](https://www.rescuetime.com) app install.
+- Added [Vivaldi](https://vivaldi.com) app install.
+- Added [direnv](http://direnv.net) Homebrew install.
+- Updated GitHub issue and pull request templates.
+- Updated to Trailer 1.3.17.
+
 # v12.0.0 (2016-03-21)
 
 - Fixed Homebrew install of OpenSSL.
