@@ -335,6 +335,7 @@ I also recommend installing the following software found via the
 - [GarageBand](http://www.apple.com/ilife/garageband)
 - [CCMenu](http://ccmenu.org)
 - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
+- [Leech](https://manytricks.com/leech)
 - [MoneyWell](http://nothirst.com/moneywell)
 - [Slack](https://slack.com)
 - [Tweetbot](http://tapbots.com/tweetbot/mac)
