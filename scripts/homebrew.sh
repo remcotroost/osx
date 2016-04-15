@@ -21,6 +21,9 @@ brew link --force openssl
 # GPG
 brew install gpg
 
+# GPG Agent
+brew install gpg-agent
+
 # Bash
 brew install bash
 
