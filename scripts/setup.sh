@@ -33,18 +33,6 @@ install_git_project "git://github.com/bkuhlmann/go_setup.git" $REPO_GO_SETUP "go
 # NPM
 install_git_project "git://github.com/bkuhlmann/npm_setup.git" $REPO_NPM_SETUP "npm_setup" "./run.sh i"
 
-# PostgreSQL
-launch_process "/usr/local/opt/postgresql/homebrew.mxcl.postgresql.plist"
-
-# Nginx
-launch_process "/usr/local/opt/nginx/homebrew.mxcl.nginx.plist"
-
-# Memcached
-launch_process "/usr/local/opt/memcached/homebrew.mxcl.memcached.plist"
-
-# Redis
-launch_process "/usr/local/opt/redis/homebrew.mxcl.redis.plist"
-
 # Pow
 curl get.pow.cx | sh
 
