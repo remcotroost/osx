@@ -139,6 +139,9 @@ brew install ruby-build
 brew install rbenv-vars
 brew install rbenv-ctags
 
+# chruby
+brew install chruby
+
 # Rust
 brew install rust
 
