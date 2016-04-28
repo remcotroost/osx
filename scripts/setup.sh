@@ -9,20 +9,15 @@ sudo bash -c "printf '/usr/local/bin/bash\n' >> /etc/shells"
 # Bash Completion
 chsh -s /usr/local/bin/bash
 
-# rbenv
-export PATH="/usr/local/bin:$PATH"
-eval "$(rbenv init -)"
-rbenv install $MRI
-rbenv global $MRI
-
 # Ruby
 printf "%s\n" "---" > "$HOME/.gemrc"
 printf "%s\n" "gem: --no-document" >> "$HOME/.gemrc"
+printf "%s\n" "$MRI" > "$HOME/.ruby-version"
 git clone git://github.com/bkuhlmann/ruby_setup.git
 (
   cd ruby_setup
   git checkout $REPO_RUBY_SETUP
-  rbenv shell $MRI
+  /usr/local/bin/ruby-install "ruby-$MRI"
   ./run.sh i
 )
 rm -rf ruby_setup
