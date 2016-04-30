@@ -1,3 +1,31 @@
+# v13.0.0 (2016-04-30)
+
+- Fixed machine caffeination.
+- Added [GDBM](http://www.gnu.org.ua/software/gdbm) Homebrew install.
+- Added [Key Codes](https://manytricks.com/keycodes) to README App Store list.
+- Added [Leech](https://manytricks.com/leech) to README App Store list.
+- Added [OpenSSL OSX CA](https://github.com/raggi/openssl-osx-ca) Homebrew install.
+- Added [chruby](https://github.com/postmodern/chruby) Homebrew install.
+- Added [gpg-agent](https://www.gnupg.org) Homebrew install.
+- Added [libffi](https://sourceware.org/libffi) Homebrew install.
+- Added [libyaml](http://pyyaml.org/wiki/LibYAML) Homebrew install.
+- Added [ruby-install](https://github.com/postmodern/ruby-install) Homebrew install.
+- Updated Opera download URL.
+- Updated to Alfred 2.8.4_437.
+- Updated to Cloak 2.0.16.
+- Updated to Dotfiles 21.0.0.
+- Updated to Firefox 46.0.0.
+- Updated to Ruby 2.3.1.
+- Updated to Ruby Setup 4.0.0.
+- Updated to Tor Browser 5.5.5.
+- Updated to Trailer 1.3.18.
+- Updated to Virtual Box 5.0.20.
+- Updated to Vivaldi 1.1.453.47.
+- Removed GHI Homebrew install.
+- Removed hub Homebrew install.
+- Removed launch process support during application setup.
+- Removed rbenv support.
+
 # v12.1.0 (2016-04-10)
 
 - Added [Elasticsearch](https://www.elastic.co/products/elasticsearch) Homebrew install.

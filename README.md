@@ -9,6 +9,7 @@ Shell scripts for automated OS X machine setup.
 # Table of Contents
 
 - [Features](#features)
+- [Screencast](#screencast)
 - [Requirements](#requirements)
 - [Setup](#setup)
   - [OS X (El Capitan)](#os-x-el-capitan)
@@ -37,7 +38,12 @@ Shell scripts for automated OS X machine setup.
 - Downloads, installs, and configures [Homebrew](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [OpenSSL](https://openssl.org)
+    - [OpenSSL OSX CA](https://github.com/raggi/openssl-osx-ca)
+    - [GDBM](http://www.gnu.org.ua/software/gdbm)
+    - [libffi](https://sourceware.org/libffi)
+    - [libyaml](http://pyyaml.org/wiki/LibYAML)
     - [GPG](https://www.gnupg.org)
+    - [GPG Agent](https://www.gnupg.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
     - [direnv](http://direnv.net)
@@ -53,8 +59,6 @@ Shell scripts for automated OS X machine setup.
     - [hr](https://github.com/LuRsT/hr)
     - [Git](http://git-scm.com)
     - [Mecurial](http://mercurial.selenic.com)
-    - [Hub](https://github.com/defunkt/hub)
-    - [GHI](https://github.com/stephencelis/ghi)
     - [CTags](http://ctags.sourceforge.net)
     - [Tag](https://github.com/jdberry/tag)
     - [Parallel](https://savannah.gnu.org/projects/parallel)
@@ -75,10 +79,8 @@ Shell scripts for automated OS X machine setup.
     - [Node.js](http://nodejs.org)
     - [Elm](http://elm-lang.org)
     - [Phantom.js](http://phantomjs.org)
-    - [rbenv](https://github.com/sstephenson/rbenv)
-    - [rbenv-build](https://github.com/sstephenson/ruby-build)
-    - [rbenv-vars](https://github.com/sstephenson/rbenv-vars)
-    - [rbenv-ctags](https://github.com/tpope/rbenv-ctags)
+    - [chruby](https://github.com/postmodern/chruby)
+    - [ruby-install](https://github.com/postmodern/ruby-install)
     - [Ruby](http://www.ruby-lang.org)
     - [Rust](https://www.rust-lang.org)
     - [Go](http://golang.org)
@@ -183,6 +185,10 @@ Shell scripts for automated OS X machine setup.
     - [Sublime Text 3 DashDoc](https://github.com/farcaller/DashDoc)
     - [Sublime Text 3 Table Editor](https://github.com/vkocubinsky/SublimeTableEditor)
 
+# Screencast
+
+[![asciicast](https://asciinema.org/a/44192.png)](https://asciinema.org/a/44192)
+
 # Requirements
 
 0. [OS X](http://www.apple.com/osx)
@@ -228,7 +234,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/osx.git
     cd osx
-    git checkout v12.1.0
+    git checkout v13.0.0
 
 Master Version (unstable):
 
