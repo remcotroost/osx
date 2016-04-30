@@ -80,9 +80,6 @@ brew install git
 # Mercurial
 brew install hg
 
-# GitHub
-brew install hub
-
 # GitHub Issues
 brew install ghi
 
