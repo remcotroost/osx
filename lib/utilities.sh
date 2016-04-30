@@ -72,8 +72,8 @@ caffeinate_machine() {
   if [[ -n "$pid" ]]; then
     printf "Whoa, tweaker, machine is already caffeinated!\n"
   else
-    caffeinate -sudit 9999999999 &
-    printf "Machine caffeinated and energy saver settings disabled.\n"
+    caffeinate -s -u -d -i -t 3153600000 > /dev/null &
+    printf "Machine caffeinated.\n"
   fi
 }
 export -f caffeinate_machine
