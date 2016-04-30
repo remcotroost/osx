@@ -156,7 +156,7 @@ export CHROME_APP_NAME="Google Chrome.app"
 export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome.dmg"
 
 export FIREFOX_APP_NAME=Firefox.app
-export FIREFOX_APP_URL="https://download-installer.cdn.mozilla.net/pub/firefox/releases/45.0.1/mac/en-US/Firefox%2045.0.1.dmg"
+export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-46.0-SSL&os=osx&lang=en-US"
 
 export OPERA_APP_NAME=Opera.app
 export OPERA_APP_URL="http://download1.operacdn.com/pub/opera/desktop/36.0.2130.32/mac/Opera_36.0.2130.32_Setup.dmg"
