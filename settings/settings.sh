@@ -159,7 +159,7 @@ export FIREFOX_APP_NAME=Firefox.app
 export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-46.0-SSL&os=osx&lang=en-US"
 
 export OPERA_APP_NAME=Opera.app
-export OPERA_APP_URL="http://download1.operacdn.com/pub/opera/desktop/36.0.2130.32/mac/Opera_36.0.2130.32_Setup.dmg"
+export OPERA_APP_URL="http://www.opera.com/download/get/?id=39353&location=410&nothanks=yes&sub=marine"
 
 export VIVALDI_APP_NAME=Vivaldi.app
 export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.1.453.47.dmg"
