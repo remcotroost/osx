@@ -80,9 +80,6 @@ brew install git
 # Mercurial
 brew install hg
 
-# GitHub Issues
-brew install ghi
-
 # CTags
 brew install ctags
 
