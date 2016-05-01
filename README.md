@@ -323,8 +323,6 @@ I also recommend installing the following software found via the
 - [Gradient](http://www.gradientapp.com)
 - [xScope](http://iconfactory.com/software/xscope)
 - [Monosnap](https://www.monosnap.com)
-- [Ember](http://realmacsoftware.com/ember)
-- [CloudApp](https://www.getcloudapp.com)
 - [Acorn](https://secure.flyingmeat.com/acorn)
 - [Pixelmator](http://www.pixelmator.com)
 - [Sketch](http://bohemiancoding.com/sketch)
