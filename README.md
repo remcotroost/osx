@@ -322,6 +322,7 @@ I also recommend installing the following software found via the
 - [ColorSnapper](http://colorsnapper.com)
 - [Gradient](http://www.gradientapp.com)
 - [xScope](http://iconfactory.com/software/xscope)
+- [Monosnap](https://www.monosnap.com)
 - [Ember](http://realmacsoftware.com/ember)
 - [CloudApp](https://www.getcloudapp.com)
 - [Acorn](https://secure.flyingmeat.com/acorn)
