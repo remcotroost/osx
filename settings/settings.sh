@@ -9,8 +9,8 @@ set -o nounset # Exit, with error message, when attempting to use an undefined v
 set -o errexit # Abort script at first error, when a command exits with non-zero status.
 set -o pipefail # Returns exit status of the last command in the pipe that returned a non-zero return value.
 IFS=$'\n\t' # Defines how Bash splits words and iterates arrays. This defines newlines and tabs as delimiters.
-export SYSTEM_LABEL=Alchemist # Placeholder for system display name.
-export SYSTEM_NAME=alchemist # Placeholder for system name.
+export SYSTEM_LABEL=Remco # Placeholder for system display name.
+export SYSTEM_NAME=remco # Placeholder for system name.
 export WORK_PATH=/tmp/downloads # Temporary location for processing of file downloads and installers.
 
 # Ruby
@@ -149,20 +149,20 @@ export TEXTEXPANDER_APP_URL="http://dl.smilesoftware.com/com.smileonmymac.textex
 export PATH_FINDER_APP_NAME="Path Finder.app"
 export PATH_FINDER_APP_URL="http://get.cocoatech.com/PF7.zip"
 
-export TOR_BROWSER_APP_NAME="TorBrowser.app"
-export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/5.5.5/TorBrowser-5.5.5-osx64_en-US.dmg"
+#export TOR_BROWSER_APP_NAME="TorBrowser.app"
+#export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/5.5.5/TorBrowser-5.5.5-osx64_en-US.dmg"
 
 export CHROME_APP_NAME="Google Chrome.app"
 export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome.dmg"
 
-export FIREFOX_APP_NAME=Firefox.app
-export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-46.0-SSL&os=osx&lang=en-US"
+#export FIREFOX_APP_NAME=Firefox.app
+#export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-46.0-SSL&os=osx&lang=en-US"
 
-export OPERA_APP_NAME=Opera.app
-export OPERA_APP_URL="http://www.opera.com/download/get/?id=39353&location=410&nothanks=yes&sub=marine"
+#export OPERA_APP_NAME=Opera.app
+#export OPERA_APP_URL="http://www.opera.com/download/get/?id=39353&location=410&nothanks=yes&sub=marine"
 
-export VIVALDI_APP_NAME=Vivaldi.app
-export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.1.453.47.dmg"
+#export VIVALDI_APP_NAME=Vivaldi.app
+#export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.1.453.47.dmg"
 
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
@@ -176,8 +176,8 @@ export ISTATS_APP_URL="http://download.bjango.com/istatmenus"
 export BARTENDER_APP_NAME="Bartender 2.app"
 export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender%202.zip"
 
-export DOUBLETAKE_APP_NAME=DoubleTake.app
-export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/upgrade/DoubleTake.zip"
+#export DOUBLETAKE_APP_NAME=DoubleTake.app
+#export DOUBLETAKE_APP_URL="http://echoone.com/doubletake/upgrade/DoubleTake.zip"
 
 export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
@@ -185,32 +185,32 @@ export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
 export VLC_APP_NAME=VLC.app
 export VLC_APP_URL="http://get.videolan.org/vlc/2.2.2/macosx/vlc-2.2.2.dmg"
 
-export PG_ADMIN_APP_NAME=pgAdmin3.app
-export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/release/v1.22.1/osx/pgadmin3-1.22.1.dmg"
+#export PG_ADMIN_APP_NAME=pgAdmin3.app
+#export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/release/v1.22.1/osx/pgadmin3-1.22.1.dmg"
 
-export PSEQUEL_APP_NAME=PSequel.app
-export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"
+#export PSEQUEL_APP_NAME=PSequel.app
+#export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"
 
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="http://mediaatelier.com/CheatSheet/CheatSheet_1.2.3.zip"
 
-export OPEN_OFFICE_APP_NAME=OpenOffice.app
-export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
+#export OPEN_OFFICE_APP_NAME=OpenOffice.app
+#export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
 
-export CLOAK_APP_NAME=Cloak.app
-export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.0.16.dmg"
+#export CLOAK_APP_NAME=Cloak.app
+#export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.0.16.dmg"
 
-export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
-export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
+#export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
+#export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
 
 export VIRTUAL_BOX_APP_NAME=VirtualBox.app
 export VIRTUAL_BOX_APP_URL="http://download.virtualbox.org/virtualbox/5.0.20/VirtualBox-5.0.20-106931-OSX.dmg"
 
-export DOXIE_APP_NAME=Doxie.app
-export DOXIE_APP_URL="http://www.getdoxie.com/resources/files/download_current_mac.php"
+#export DOXIE_APP_NAME=Doxie.app
+#export DOXIE_APP_URL="http://www.getdoxie.com/resources/files/download_current_mac.php"
 
-export SONOS_APP_NAME=Sonos.app
-export SONOS_APP_URL="http://www.sonos.com/redir/controller_software_mac"
+#export SONOS_APP_NAME=Sonos.app
+#export SONOS_APP_URL="http://www.sonos.com/redir/controller_software_mac"
 
 export APP_CLEANER_APP_NAME=AppCleaner.app
 export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.3.zip"
@@ -218,20 +218,20 @@ export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.3.zip
 export HAZEL_APP_NAME=Hazel.prefPane
 export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
 
-export TRAILER_APP_NAME=Trailer.app
-export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer1318.zip"
+#export TRAILER_APP_NAME=Trailer.app
+#export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer1318.zip"
 
 export RESCUE_TIME_APP_NAME=RescueTime.app
 export RESCUE_TIME_APP_URL="https://www.rescuetime.com/installers/RescueTimeInstaller.dmg"
 
-export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
-export CARBON_COPY_CLONER_APP_URL="https://70dd08a0984b0022574d-8064f6cbda3d6f2abd1c53b8bc16b17e.ssl.cf5.rackcdn.com/ccc-4.1.7.4285.zip"
+#export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
+#export CARBON_COPY_CLONER_APP_URL="https://70dd08a0984b0022574d-8064f6cbda3d6f2abd1c53b8bc16b17e.ssl.cf5.rackcdn.com/ccc-4.1.7.4285.zip"
 
-export QUICK_LOOK_PLAIN_TEXT_APP_NAME="QLStephen.qlgenerator"
-export QUICK_LOOK_PLAIN_TEXT_APP_URL="https://github.com/downloads/whomwah/qlstephen/QLStephen.qlgenerator.zip"
+#export QUICK_LOOK_PLAIN_TEXT_APP_NAME="QLStephen.qlgenerator"
+#export QUICK_LOOK_PLAIN_TEXT_APP_URL="https://github.com/downloads/whomwah/qlstephen/QLStephen.qlgenerator.zip"
 
-export KSDIFF_APP_NAME="ksdiff"
-export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
+#export KSDIFF_APP_NAME="ksdiff"
+#export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
 
 export HAND_BRAKE_APP_NAME="HandBrake.app"
 export HAND_BRAKE_APP_URL="http://handbrake.fr/rotation.php?file=HandBrake-0.10.5-MacOSX.6_GUI_x86_64.dmg"
