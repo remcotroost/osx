@@ -4,6 +4,8 @@
 
 Shell scripts for automated OS X machine setup.
 
+Adapted to my own needs -remcotroost
+
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
 # Table of Contents
