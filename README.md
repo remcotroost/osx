@@ -4,7 +4,9 @@
 
 Shell scripts for automated OS X machine setup.
 
-*Adapted to my own needs -remcotroost*
+*Adapted to my own needs.
+I have taken out some of the applications from the original fork.
+-remcotroost*
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
